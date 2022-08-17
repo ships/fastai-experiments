@@ -2,14 +2,6 @@
 
 This file is designed to be parsed and used by [mask](https://github.com/jacobdeichert/mask)
 
-## setup
-
-> sets up local workstation and/or shell.
-
-~~~zsh
-conda activate handwriting_drawing
-~~~
-
 ## lab
 
 > Runs the jupyter-lab locally and opens browser window. For local development.
