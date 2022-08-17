@@ -1,0 +1,18 @@
+name: fastai
+channels:
+  - fastchan
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3
+  - ipycanvas=0.12.0
+  - fastai
+  - black
+  - ipywidgets
+  - jupyterlab
+  - jupyterlab_widgets
+  - jupytext
+  - matplotlib
+  - nomkl
+  - numpy
+  - pandas
