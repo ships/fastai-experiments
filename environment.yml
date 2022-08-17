@@ -12,7 +12,7 @@ dependencies:
   - jupyterlab
   - jupyterlab_widgets
   - jupytext
-  - matplotlib
   - nomkl
-  - numpy
-  - pandas
+  - pip
+  - pip:
+    - duckduckgo_search
